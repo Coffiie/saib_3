@@ -22,6 +22,6 @@ class MyApp extends StatelessWidget {
                   primary: Colors.yellow)),
           primarySwatch: Colors.blue,
         ),
-        home: LandingView());
+        home: const LandingView());
   }
 }
